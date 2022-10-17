@@ -1,0 +1,25 @@
+{
+  "name": "solana-nft-unique-holders-checker",
+  "version": "1.0.0",
+  "description": "A collection of scripts exploring Solana NFT data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xRoxas/Solana-NFT-Scripts.git"
+  },
+  "author": "0xRoxas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xRoxas/Solana-NFT-Scripts/issues"
+  },
+  "homepage": "https://github.com/0xRoxas/Solana-NFT-Scripts#readme",
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^1.2.5",
+    "@solana/web3.js": "^1.35.1",
+    "axios": "^0.26.0",
+    "ts-node": "^10.5.0"
+  }
+}

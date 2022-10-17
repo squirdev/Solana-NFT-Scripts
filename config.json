@@ -1,0 +1,11 @@
+{
+  "data": {
+    "RPC": "https://ssc-dao.genesysgo.net",
+    "mint_id": "ENTER-MINT-ADDR-HERE",
+    "reverse_img_filename": "IMAGE-FILENAME-HERE",
+    "reverse_img_attr_filters": [
+    ],
+    "save_jpg_as_nft_name": false,
+    "custom_project_name": ""
+  }
+}
