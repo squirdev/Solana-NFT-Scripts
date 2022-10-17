@@ -24,7 +24,7 @@
   - [Running](https://github.com/0xRoxas/Solana-NFT-Scripts#Running) 
   - [Finding your CandyMachine ID](https://github.com/0xRoxas/Solana-NFT-Scripts#Finding-your-CandyMachine-ID) 
 - [Credit](https://github.com/0xRoxas/Solana-NFT-Scripts#credit)
-- [Handle](https://github.com/0xRoxas/Solana-NFT-Scripts#Handle)
+- [Twitter Handle](https://github.com/0xRoxas/Solana-NFT-Scripts#Handle)
 
 ## Preface
 
@@ -203,6 +203,6 @@ ts-node id_finder.ts
 * Code adapted from the [Solana Cookbook](https://solanacookbook.com/).
 * [ResembleJS](https://github.com/rsmbl/Resemble.js) was used for NFT reverse image search (the code inside the resemblejs folder is not mine - see license).
 
-## Handle
+## Twitter Handle
 
 [@0xRoxas](https://twitter.com/0xRoxas)
